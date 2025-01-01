@@ -10,8 +10,7 @@ if __name__=="__main__":
     car.display()
 def addition(a,b):
     return a+b
-def multiplication(a,b):
-    return a*b
+
 
 
 
